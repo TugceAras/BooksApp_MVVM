@@ -1,6 +1,6 @@
 # <p align="center"> Books App 📘 </p>
 
-- The fifth homework given by UpSchool
+- The seventh homework given by UpSchool
 - NOTE : It is the updated version of the book application that I have developed before. Added MVVM and Hilt.
 
 <!-- Screenshots -->
