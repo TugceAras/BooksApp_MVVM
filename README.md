@@ -30,6 +30,16 @@
 
 ## :pencil2: Dependency
 ```
+
+    plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
+    id("kotlin-parcelize")
+    id("androidx.navigation.safeargs.kotlin")
+    id("kotlin-kapt")
+    id("dagger.hilt.android.plugin")
+    }
+
     dependencies {
 
     implementation("androidx.core:core-ktx:1.10.1")
