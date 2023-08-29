@@ -3,7 +3,9 @@
 <br>
 
 - The seventh homework given by UpSchool
-> ### NOTE : It is the updated version of the book application that I have developed before. Added MVVM and Hilt.
+> ### NOTE : It is the updated version of the book application that I have developed before👇 <br>
+> https://github.com/TugceAras/BooksApp <br><br>
+> Added MVVM and Hilt.
 
 <br>
 
