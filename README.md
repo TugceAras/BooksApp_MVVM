@@ -1,6 +1,7 @@
 # <p align="center"> Books App 📘 </p>
 
 - The fifth homework given by UpSchool
+- NOTE : It is the updated version of the book application that I have developed before. Added MVVM and Hilt.
 
 <!-- Screenshots -->
 ## 📸 Screenshots
@@ -40,7 +41,7 @@
     implementation("com.intuit.sdp:sdp-android:1.1.0")
 
     // Navigation
-    val navVersion = "2.7.0"
+    val navVersion = "2.7.1"
     implementation("androidx.navigation:navigation-fragment-ktx:$navVersion")
     implementation("androidx.navigation:navigation-ui-ktx:$navVersion")
 
@@ -53,4 +54,8 @@
 
     // GLide
     implementation("com.github.bumptech.glide:glide:4.15.1")
+
+    // Hilt
+    implementation("com.google.dagger:hilt-android:2.47")
+    kapt("com.google.dagger:hilt-compiler:2.47")
 ```
